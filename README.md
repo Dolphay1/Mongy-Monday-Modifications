@@ -7,6 +7,7 @@ Current modifications to the original:
  - You can now choose the percentage chance the game will allow a repeat role under Mod Options. Set to 0 for no repeats, set to 100 for normal behavior.
  - Added an option that makes the Politican only see the reveal button after he has gotten enough votes.
  - Added the option for Jester to be able to save their kill and use it when they choose.
+ 
 
 ![Roles](./Images/Roles.png)
 
